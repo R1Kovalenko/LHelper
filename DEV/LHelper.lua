@@ -1,5 +1,5 @@
-script_name("LHelper 1.2")
-local CURRENT_VERSION = "1.2"
+script_name("LHelper 1.3")
+local CURRENT_VERSION = "1.3"
 script_name("RankTracker " .. CURRENT_VERSION)
 script_author("ROMAN KOVALENKO")
 script_version(CURRENT_VERSION)
